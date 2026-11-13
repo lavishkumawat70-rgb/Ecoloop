@@ -1,0 +1,6 @@
+{
+  "name": "EcoLoop — Bag It, Bank It",
+  "description": "AI-powered community waste-segregation dashboard for residents, informal waste workers, and municipal administrators in India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
